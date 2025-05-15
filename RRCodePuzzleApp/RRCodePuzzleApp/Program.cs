@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using System.Text;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 var userInput = "(id, name, email, type(id, name, customFields(c1, c2, c3)), externalId)";
 
@@ -36,8 +33,8 @@ static void ValidateInput(string input)
     }
 
     // Check for balanced parentheses
-    int openParentheses = 0;
-    int closeParentheses = 0;
+    var openParentheses = 0;
+    var closeParentheses = 0;
 
     foreach (char c in input)
     {
@@ -80,13 +77,12 @@ static UserAttributeNode ParseField(string userInput)
             var newNode = new UserAttributeNode(token, currentNode.Depth + 1);
             currentNode.Children.Add(newNode);
         }
-        // If the token is an (, push the current node into the stack and set HasChildren to true for the parent node
+        // If the token is an (, push the current node into the stack 
         else if (token == "(")
         {
             var currentNode = stack.Peek();
             if (currentNode.Children.Count > 0)
             {
-                currentNode.HasChildren = true;
                 var newParent = currentNode.Children.Last();
                 stack.Push(newParent);
             }
@@ -131,6 +127,5 @@ public class UserAttributeNode(string name, int depth)
 {
     public string Name { get; set; } = name;
     public int Depth { get; set; } = depth;
-    public bool HasChildren { get; set; } = false;
     public List<UserAttributeNode> Children { get; set; } = new List<UserAttributeNode>();
 }
