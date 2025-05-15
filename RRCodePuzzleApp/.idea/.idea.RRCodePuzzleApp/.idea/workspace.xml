@@ -8,35 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fc23073-278b-4ad3-9024-154755e91b57" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RRCodePuzzleApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RRCodePuzzleApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/bin/Debug/net9.0/RRCodePuzzleApp.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/bin/Debug/net9.0/RRCodePuzzleApp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/bin/Debug/net9.0/RRCodePuzzleApp.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/bin/Debug/net9.0/RRCodePuzzleApp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/bin/Debug/net9.0/RRCodePuzzleApp.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.sourcelink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/ref/RRCodePuzzleApp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/refint/RRCodePuzzleApp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/RRCodePuzzleApp.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/RRCodePuzzleApp.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/RRCodePuzzleApp.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RRCodePuzzleApp/obj/Debug/net9.0/RRCodePuzzleApp.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +89,7 @@
       <updated>1747257392922</updated>
       <workItem from="1747257394025" duration="13928000" />
       <workItem from="1747332408970" duration="28000" />
+      <workItem from="1747332459632" duration="160000" />
     </task>
     <servers />
   </component>
