@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RRCodePuzzleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6b3f18d5d7fff80ec841720a06474a5938f5ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dd2eddd62f8f8b7a24185e23982316fd28ff6d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RRCodePuzzleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RRCodePuzzleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
